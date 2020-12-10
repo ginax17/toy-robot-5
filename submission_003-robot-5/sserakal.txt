@@ -1,0 +1,997 @@
+    1  wtc-lms
+    2  wtc-lms login
+    3  wtc-lms register
+    4  wtc-lms reviews
+    5  wtc-lms review_details 8c2fc4bf-7974-4418-9065-fb359d3d788a
+    6  wtc-lms add_comment 8c2fc4bf-7974-4418-9065-fb359d3d788a "understands the logic of his code"
+    7  wtc-lms grade_review 8c2fc4bf-7974-4418-9065-fb359d3d788a 10
+    8  wtc-lms start f899e822-161f-4c92-9a42-7c7a2467c021
+    9  code
+   10  ls
+   11  mkdir maze
+   12  wtc-lms version
+   13  wtc-lms save f899e822-161f-4c92-9a42-7c7a2467c021
+   14  git config --global user.name "sserakal"
+   15  git config --global user.email "sserakal@student.wethinkcode.co.za"
+   16  wtc-lms save f899e822-161f-4c92-9a42-7c7a2467c021
+   17  code
+   18  wtc-lms login
+   19  wtc-lms history
+   20  wtclms problems
+   21  wtc-lms problems
+   22  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd 
+   23  wtc-lms history da2f7a67-be13-4e03-995d-1c63dc429bd6
+   24  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+   25  wtc-lms history 254a6e98-30b6-4a8b-b255-a4e7aa0c4547
+   26  wtc-lms history ef4e20e2-6ed5-4eea-93b6-78116b0083eb
+   27  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+   28  wtc-lms start ead9542e-a32a-43d2-bfcf-c60e7559611f
+   29  code
+   30  /goinfre/sserakal/problems/submission_002-mastermind-functions/
+   31  cd /goinfre/sserakal/problems/submission_002-mastermind-functions/
+   32  ls
+   33  python3 robot.py
+   34  code
+   35  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+   36  wtc-lms login
+   37  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+   38  wtc-lms start 8dea9e69-07da-440d-964c-08e868e11561
+   39  wtc-lms problems
+   40  wtc-lms grade ead9542e-a32a-43d2-bfcf-c60e7559611f
+   41  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+   42  cd ..
+   43  ls
+   44  wtc-lms start c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+   45  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+   46  wtc-lms reviews
+   47  wtc-lms review_details b8b5a9e8-05b4-47c7-af99-13bbea6b4f27
+   48  wtc-lms accept b8b5a9e8-05b4-47c7-af99-13bbea6b4f27
+   49  wtc-lms reviews
+   50  wtc-lms review_details 4f68d51c-c6d2-4d89-ba18-2b86dd319e74
+   51  wtc-lms accept 4f68d51c-c6d2-4d89-ba18-2b86dd319e74
+   52  wtc-lms review_details 4f68d51c-c6d2-4d89-ba18-2b86dd319e74
+   53  Module: Fundamentals
+   54  Topic: Modules & Packages
+   55  Problem: Problem - Accounting App
+   56  Review Guidelines: https://curriculum.wethinkcode.co.za/101-foundations/009-namespaces/001-accounting#review
+   57  State: Assigned
+   58  Submission Author: smanana@student.wethinkcode.co.za
+   59  Location: /goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+   60  wtc-lms add_comment 4f68d51c-c6d2-4d89-ba18-2b86dd319e74 "New Comment"
+   61  wtc-lms grade_review 4f68d51c-c6d2-4d89-ba18-2b86dd319e74 <grade>
+   62  wtc-lms reviews
+   63  wtc-lms review_details 11d7e917-b7d6-4476-8933-bd75eacc894d
+   64  wtc-lms accept 11d7e917-b7d6-4476-8933-bd75eacc894d
+   65  wtc-lms review_details 11d7e917-b7d6-4476-8933-bd75eacc894d
+   66  wtc-lms reviews
+   67  wtc-lms review_details 43db4523-d7fc-4fc0-b396-6a77f6dffe49
+   68  wtc-lms accept 43db4523-d7fc-4fc0-b396-6a77f6dffe49
+   69  wtc-lms review_details 43db4523-d7fc-4fc0-b396-6a77f6dffe49
+   70  wtc-lms reviews
+   71  wtc-lms review_details d9576876-61a3-455f-96d0-9d704170e232
+   72  wtc-lms accept d9576876-61a3-455f-96d0-9d704170e232
+   73  wtc-lms review_details d9576876-61a3-455f-96d0-9d704170e232
+   74  python3 robot.py
+   75  /goinfre/sserakal/problems/mmehloma6281_submission_001-bugfixer_grading
+   76  code
+   77  python3 robot.py
+   78  python3 maze/the_worlds_most_crazy_maze.py
+   79  /goinfre/sserakal/problems/tmuhali4236_submission_001-accounting_grading
+   80  wtc-lms grade_review d9576876-61a3-455f-96d0-9d704170e232 10
+   81  python3 -m unittest tests/test_main.py
+   82  wtc-lms add_comment d9576876-61a3-455f-96d0-9d704170e232 "He understands the concept of packages and modules for this project."
+   83  wtc-lms login
+   84  wtc-lms add_comment d9576876-61a3-455f-96d0-9d704170e232 "He understands the concept of packages and modules for this project."
+   85  wtc-lms grade_review d9576876-61a3-455f-96d0-9d704170e232 10
+   86  cd practice_team_08/
+   87  ls
+   88  cd 
+   89  ls
+   90  git clone https://github.com/VR-Scott/practice_team_08.git
+   91  ls
+   92  cd practice_team_08/
+   93  ls
+   94  code .
+   95  git clone https://github.com/VR-Scott/practice_team_08.git
+   96  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+   97  ls
+   98  python3 maze/the_worlds_most_crazy_maze.py
+   99  git branch -a
+  100  git checkout -b sserakal
+  101  git branch -a
+  102  git add -A
+  103  git commit -m "I added the authors.txt"
+  104  git push
+  105  git push --set-upstream origin sserakal
+  106  git checkout master
+  107  git pull
+  108  git checkout sserakal
+  109  git merge vscott master
+  110  git merge sserakal master
+  111  git checkout master
+  112  git merge master sserakal
+  113  ls
+  114  git status
+  115  git log
+  116  git push
+  117  git remote add origin https://github.com/ginax17/Python-Projects.git
+  118  ls
+  119  git add .
+  120  ls
+  121  git log
+  122  git commit -m "The player has one chance to guess the entire word that is chosen randomly from a predefined list"
+  123  git push
+  124  ls
+  125  git int
+  126  git init
+  127  git add .
+  128  ls
+  129  git status
+  130  git commit -m "test"
+  131  ls
+  132  wtc-lms start 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  133  wtc-lms login
+  134  wtc-lms start 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  135  ls
+  136  git add submission_001-hangman-conditional
+  137  cd ..
+  138  git add submission_001-hangman-conditional
+  139  git commit -m "The game user is expecting to be more engaged when playing the Hangman game, and as such you want to make it more interactive, and easier to use"
+  140  ls
+  141  cd Python-Projects
+  142  git push
+  143  git add
+  144  git add .
+  145  git commit -m "updated hangman game"
+  146  git push
+  147  git add submission_001-hangman-conditional
+  148  cd ..
+  149  ls
+  150  git add submission_001-hangman-conditional
+  151  git commit -m "The game user is expecting to be more engaged when playing the Hangman game, and as such you want to make it more interactive, and easier to use."
+  152  cd submission_001-hangman-conditional
+  153  git add
+  154  cd ..
+  155  git add origin submission_001-hangman-conditional
+  156  git add submission_001-hangman-conditional
+  157  git commit -m "The game user is expecting to be more engaged when playing the Hangman game, and as such you want to make it more interactive, and easier to use."
+  158  git push -u origin master
+  159  git push origin master
+  160  git pull
+  161  git push
+  162  ls
+  163  git add submission_002-robot-4
+  164  git submodule add submission_001-hangman-conditional
+  165  git submodule add ./submission_001-hangman-conditional
+  166  git status
+  167  git -la
+  168  git a
+  169  git -a
+  170  ls
+  171  git add Python-Problems/submission_001-hangman-conditional
+  172  cd problems
+  173  cd ..\
+  174  cd problems
+  175  cd ..
+  176  cd problems
+  177  ls
+  178  git .la
+  179  python3 -m unittest tests/test_main.py
+  180  wtc-lms save 8dea9e69-07da-440d-964c-08e868e11561
+  181  ls
+  182  cd ..
+  183  ls
+  184  cd wtc-lms start d3c51cf8-c246-478c-a3b2-fac6ac41df67
+  185  wtc-lms start d3c51cf8-c246-478c-a3b2-fac6ac41df67
+  186  wtc-lms login
+  187  wtc-lms start d3c51cf8-c246-478c-a3b2-fac6ac41df67
+  188  ls
+  189  cd submission_002-toy-robot-3
+  190  ls
+  191  python3 -m unittest test_robot.py
+  192  python3 -m unittest tests/test_main.py
+  193  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-toy-robot-3/robot.py
+  194  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-toy-robot-3/robot.py/usr/bin/python3 /goinfre/sserakal/problems/submission_002-toy-robot-3/robot.py
+  195  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-toy-robot-3/robot.py
+  196  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-toy-robot-3/test_robot.py
+  197  python3 -m unittest tests/test_main.py
+  198  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+  199  wtc-lms save 8dea9e69-07da-440d-964c-08e868e11561
+  200  python3 -m unittest tests/test_main.py
+  201  wtc-lms start 8dea9e69-07da-440d-964c-08e868e11561
+  202  cd
+  203  ls
+  204  cd problems
+  205  ls
+  206  cd submission_002-toy-robot-3
+  207  python3 -m unittest test_robot.py
+  208  wtc-lms history decea39d-7a2a-45d9-bd08-1af152c94516
+  209  wtc-lms login
+  210  wtc-lms history decea39d-7a2a-45d9-bd08-1af152c94516
+  211  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+  212  ls
+  213  cd ..
+  214  ls
+  215  git clone https://github.com/ginax17/Python-Projects.git
+  216  ls
+  217  cp submission_001-hangman Python-Projects
+  218  ls
+  219  cp -r submission_001-hangman Python-Projects
+  220  ls
+  221  cp -r submission_001-bugfixer submission_001-hangman submission_001-hangman-conditional submission_002-mastermind-functions submission_002-robot-4 submission_002-toy-robot-3 submission_003-robot-5 Python-Projects
+  222  ls
+  223  cd Python-Projects
+  224  ls
+  225  git add submission_001-bugfixer
+  226  git submodule add submission_001-bugfixer
+  227  git submodule add https://github.com/ginax17/Python-Projects.git submission_001-bugfixer
+  228  git status
+  229  git add submission_001-hangman-conditional/
+  230  git status
+  231  wtc-lms add_comment 4f68d51c-c6d2-4d89-ba18-2b86dd319e74 "She understants what virtual environments to and why it is necessary to have packages in python"
+  232  wtc-lms grade_review 4f68d51c-c6d2-4d89-ba18-2b86dd319e74 10
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd Python-Projects
+  237  ls
+  238  git add submission_001-bugfixer/
+  239  git commit -m "Error handling in Python"
+  240  git push
+  241  ls
+  242  cd ..
+  243  ls
+  244  rm -rf smanana4681_submission_001-accounting_grading
+  245  ls
+  246  rm -rf Python-Projects
+  247  ls
+  248  git clone https://github.com/ginax17/Python-Projects.git
+  249  ls
+  250  cd Python-Projects
+  251  ls
+  252  rm submission_001-hangman-conditional
+  253  rm -rf submission_001-hangman-conditional
+  254  rm -rf submission_001-bugfixer
+  255  wtc-lms start 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  256  ls
+  257  cd ..
+  258  ls
+  259  cp submission_001-hangman Python-Projects
+  260  cp -r submission_001-hangman Python-Projects
+  261  git add submission_001-hangman
+  262  git commit -m "The player has one chance to guess the entire word that is chosen randomly from a predefined list"
+  263  git oush
+  264  git push
+  265  /goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+  266  goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+  267  wtc-lms reviews
+  268  wtc-lms login
+  269  wtc-lms reviews
+  270  /goinfre/sserakal/problems/mfutjane6850_submission_001-accounting_grading
+  271  wtc-lms reviews
+  272  /goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+  273  /goinfre/sserakal/problems/fkalombo7868_submission_001-accounting_grading
+  274  /goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+  275  wtc-lms reviews
+  276  /goinfre/sserakal/problems/smanana4681_submission_001-accounting_grading
+  277  cd ..
+  278  ls
+  279  cd smanana4681_submission_001-accounting_grading
+  280  cd ..
+  281  ls
+  282  cd problems
+  283  ls
+  284  rm -rf Python-Projects
+  285  git clone https://github.com/ginax17/Python-Projects.git
+  286  ls
+  287  cd Python-Projects
+  288  ls
+  289  rm -rf submission_001-hangman-conditional submission_001-bugfixer
+  290  git push
+  291  cp submission_001-hangman-conditional Python-Projects
+  292  cd ..
+  293  cp -r submission_001-hangman-conditional Python-Projects
+  294  ls
+  295  cp submission_001-hangman Python-Projects
+  296  cp -r submission_001-hangman Python-Projects
+  297  ls
+  298  cd Python-Projects
+  299  ls
+  300  git add submission_001-hangman
+  301  git add submission_001-hangman/
+  302  git commit -m "Hangman game"
+  303  git push
+  304  ls
+  305  cd ..
+  306  python3 -m unittest tests/test_main.py
+  307  wtc-lms add_comment 11d7e917-b7d6-4476-8933-bd75eacc894d "He understands the logic of his code and understands the use of environments in python"
+  308  wtc-lms login
+  309  wtc-lms add_comment 11d7e917-b7d6-4476-8933-bd75eacc894d "He understands the logic of his code and understands the use of environments in python"
+  310  wtc-lms grade_review 11d7e917-b7d6-4476-8933-bd75eacc894d 10
+  311  ls
+  312  cd ..
+  313  ls
+  314  cd problems
+  315  ls
+  316  cd mfutjane6850_submission_001-accounting_grading
+  317  pip3 install requests
+  318  python /goinfre/sserakal/script.py
+  319  pip3 install requests
+  320  pip install requests
+  321  python /goinfre/sserakal/script.py
+  322  python3 -m pip install requests
+  323  python /goinfre/sserakal/script.py
+  324  pip3 install
+  325  pip3 help install
+  326  pip3 uninstall requests
+  327  python -m pip3 uninstall requests
+  328  python3 -m pip3 unstall requests
+  329  python -m pip uninstall requests
+  330  pip3 install pip
+  331  pip3 install pip3
+  332  pip3 verstion
+  333  pip version
+  334  python /goinfre/sserakal/script.py
+  335  which python
+  336  which pip
+  337  which pip3
+  338  python --version 
+  339  python /goinfre/sserakal/script.py
+  340  pip3 install requests
+  341  python3 --version 
+  342  python3 script.py
+  343  python3 -i script.py
+  344  python /goinfre/sserakal/script.py
+  345  python3 script.py
+  346  bash
+  347  wtc-lms review_details e3b060bc-1d70-4484-96de-096f7988bd39
+  348  wtc-lms accept e3b060bc-1d70-4484-96de-096f7988bd39
+  349  wtc-lms review_details e3b060bc-1d70-4484-96de-096f7988bd39
+  350  python /goinfre/sserakal/jsonprac.py
+  351  python3 jsonprac.py
+  352  python3 -i jsonprac.py
+  353  python /goinfre/sserakal/jsonprac.py
+  354  wtc-lms login
+  355  wtc-lms reviews
+  356  wtc-lms review_details a9d9d7c0-a2d3-4393-9af6-98f256ff41c5
+  357  wtc-lms accept a9d9d7c0-a2d3-4393-9af6-98f256ff41c5
+  358  wtc-lms review_details a9d9d7c0-a2d3-4393-9af6-98f256ff41c5
+  359  wtc-lms review_details 4d72d8af-c8d0-480c-977d-df0391971da4
+  360  wtc-lms accept 4d72d8af-c8d0-480c-977d-df0391971da4
+  361  wtc-lms review_details 4d72d8af-c8d0-480c-977d-df0391971da4
+  362  wtc-lms review_details b5f4892e-d9b4-4305-aa80-419f909a0d98
+  363  wtc-lms accept b5f4892e-d9b4-4305-aa80-419f909a0d98
+  364  wtc-lms review_details b5f4892e-d9b4-4305-aa80-419f909a0d98
+  365  wtc-lms review_details 7ed49d39-5b51-4709-92cd-6098aa7a4725
+  366  wtc-lms accept 7ed49d39-5b51-4709-92cd-6098aa7a4725
+  367  wtc-lms review_details 7ed49d39-5b51-4709-92cd-6098aa7a4725
+  368  wtc-lms review_details 6efac7f1-3f41-427f-86c0-91ef67c78525
+  369  wtc-lms accept 6efac7f1-3f41-427f-86c0-91ef67c78525
+  370  wtc-lms review_details 6efac7f1-3f41-427f-86c0-91ef67c78525
+  371  wtc-lms reviews
+  372  wtc-lms add_comment 6efac7f1-3f41-427f-86c0-91ef67c78525 "He was able to follow the instructions accourding to the guidelines and is able to explain his code"
+  373  wtc-lms grade_review 6efac7f1-3f41-427f-86c0-91ef67c78525 10
+  374  wtc-lms login
+  375  wtc-lms reviews
+  376  /goinfre/sserakal/problems/ifraans2990_submission_003-mastermind-returns_grading
+  377  cd ..
+  378  ls
+  379  cd problems
+  380  ls
+  381  cd Python-Projects
+  382  ls
+  383  cd ..
+  384  rm -rf Python-Projects
+  385  ls
+  386  git clone https://github.com/ginax17/Python-Projects.git
+  387  ls
+  388  cd Pytho-Projects
+  389  cd Python-Projects
+  390  ls
+  391  git add submission_001-hangman
+  392  cd ..
+  393  git add submission_001-hangman
+  394  git status
+  395  git commit -m "The player has one chance to guess the entire word that is chosen randomly from a predefined list"
+  396  git push
+  397  git rm -rf Python-Projects
+  398  rm -rf Python-Projects
+  399  git rm -rf .git/
+  400  ls
+  401  git rm .git/
+  402  python3 -m unittest tests/test_main.py
+  403  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  404  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  405  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  406  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  407  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  408  python3 -m unittest tests.test_main.MyTestCase.test_step6
+  409  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  410  /usr/bin/python3 /goinfre/sserakal/problems/tetema4171_submission_001-pyramids_grading/draw.py
+  411  wtc-lms add_comment 7ed49d39-5b51-4709-92cd-6098aa7a4725 "His code runs however he didnt include the extra shapes we were asked to create"
+  412  wtc-lms grade_review 7ed49d39-5b51-4709-92cd-6098aa7a4725 9
+  413  python3 -m unittest tests/test_main.py
+  414  wtc-lms add_comment 1ba7daaa-07ff-48f5-8f79-da00bd13a9eb "He was able to fix the bugs in the program using trial and error"
+  415  wtc-lms grade_review 1ba7daaa-07ff-48f5-8f79-da00bd13a9eb 10
+  416  cd ..
+  417  ls
+  418  cd problems
+  419  ls
+  420  git init
+  421  git rm -rf .git/
+  422  rm -rf -git/
+  423  rm -rf .git/
+  424  ls
+  425  git init
+  426  git remote add origin https://github.com/ginax17/Python-Projects.git
+  427  ls
+  428  wtc-lms start 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  429  wtc-lms login
+  430  wtc-lms start 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  431  ls
+  432  git add submission_001-hangma
+  433  git add submission_001-hangman
+  434  ls
+  435  git init
+  436  git add submission_001-hangman/
+  437  git status
+  438  git rm --cached submission_001-hangman
+  439  cd ..
+  440  git add submission_001-hangman
+  441  ls
+  442  cd problems
+  443  git clone https://github.com/ginax17/Python-Projects.git
+  444  ls
+  445  cp -r submission_001-hangman Python-Projects
+  446  ls
+  447  git add submission_001-hangman
+  448  ls
+  449  git commit -m "test"
+  450  git push
+  451  git push --set-upstream origin master
+  452  ls
+  453  git add submission_003-robot-5/
+  454  git add submission_003-robot-5
+  455  git push
+  456  git commit -m "test 2"
+  457  git push
+  458  ls
+  459  git add asardie1691_submission_001-wtc-basics_grading
+  460  git add Python-Projects
+  461  git add tetema4171_submission_001-pyramids_grading
+  462  tetema4171_su
+  463  git add tetema4171_submission_001-pyramids_grading/
+  464  git commit -m "test 3"
+  465  git push
+  466  git rm -rf
+  467  rm -rf .git/
+  468  ls
+  469  rm -rf Python-Projects
+  470  ls
+  471  git init
+  472  git remote add origin https://github.com/ginax17/Beginner-Python-Projects.git
+  473  ls
+  474  cd  submission_001-hangman
+  475  rm -rf .git/
+  476  ls
+  477  Location: /goinfre/sserakal/problems/tetema4171_submission_001-pyramids_grading
+  478  /goinfre/sserakal/problems/tetema4171_submission_001-pyramids_grading
+  479  /goinfre/sserakal/problems/vsithole2747_submission_002-toy-robot-3_grading
+  480  /goinfre/sserakal/problems/vsithole2747_submission_001-bugfixer_grading
+  481  wtc-lms add_comment e3b060bc-1d70-4484-96de-096f7988bd39 "very clean code"
+  482  wtc-lms grade_review e3b060bc-1d70-4484-96de-096f7988bd39 10
+  483  python3 -m unittest tests/test_main.py
+  484  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+  485  python3 the_worlds_most_crazy_maze.py
+  486  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+  487  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/obstacles.py
+  488  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+  489  wtc-lms login
+  490  wtc-lms reviews
+  491  wtc-lms review_details a9de7d41-a44e-463f-9cce-7fa0844c38ac
+  492  wtc-lms accept a9de7d41-a44e-463f-9cce-7fa0844c38ac
+  493  wtc-lms review_details a9de7d41-a44e-463f-9cce-7fa0844c38ac
+  494  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+  495  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/obstacles.py
+  496  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py
+  497  /usr/bin/python3 /goinfre/sserakal/script.py
+  498  python3 script.py
+  499  cd
+  500  python3 script.py
+  501  /usr/bin/python3 /goinfre/sserakal/script.py
+  502  cd
+  503  ls
+  504  git add json
+  505  git commit -m "Json dummy files"
+  506  git init
+  507  rm -rf .git/
+  508  git init
+  509  git master 
+  510  git remote add origin https://github.com/VR-Scott/practice_team_08.git
+  511  git add json
+  512  git commit -m "Json dummy files"
+  513  git push
+  514  git push --set-upstream origin master
+  515  git pull
+  516  git push
+  517  git push --set-upstream origin master
+  518  git pull
+  519  git pull remote 
+  520  git clone https://github.com/VR-Scott/practice_team_08.git
+  521  ls
+  522  rm -rf practice_team_08
+  523  git clone https://github.com/VR-Scott/practice_team_08.git
+  524  ls
+  525  cd practice_team_08
+  526  ls
+  527  git branch -a
+  528  git checkout -b sserakal
+  529  cp json practice_team_08
+  530  cp -r json practice_team_08
+  531  cp ~/json practice_team_08
+  532  cp -r ~/json practice_team_08
+  533  ls
+  534  git add json
+  535  git commit -m "json dummy data"
+  536  git push
+  537  git push --set-upstream origin sserakal
+  538  git push
+  539  git merge sserakal  master
+  540  git checkout master
+  541  git merge master sserakal
+  542  git add
+  543  git add .
+  544  git commit -m "Json dummy data"
+  545  git push
+  546  python3 robotmaze.py
+  547  /goinfre/sserakal/problems/nddlamin7220_submission_002-toy-robot-3_grading
+  548  /goinfre/sserakal/problems/kmokoena7469_submission_002-toy-robot-3_grading
+  549  /usr/bin/python3 /goinfre/sserakal/Downloads/testmaze.py
+  550  ls
+  551  python3 testmaze.py
+  552  ls
+  553  python3 obstacles
+  554  python3 testmaze.py
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd submission_002-robot-4
+  559  /usr/bin/python3 /goinfre/sserakal/problems/sluthang5398_submission_005-toy-robot-2_grading/robot.py
+  560  python3 unittest -m test_robot.py
+  561  /usr/bin/python3 /goinfre/sserakal/problems/sluthang5398_submission_005-toy-robot-2_grading/robot.py
+  562  python3 -m unittest test_robot.py
+  563  wtc-lms add_comment 4d72d8af-c8d0-480c-977d-df0391971da4 "His code runs however he didnt follow one of the guidelines"
+  564  wtc-lms login
+  565  wtc-lms add_comment 4d72d8af-c8d0-480c-977d-df0391971da4 "His code runs however he didnt follow one of the guidelines"
+  566  wtc-lms grade_review 4d72d8af-c8d0-480c-977d-df0391971da4 10
+  567  ls
+  568  cd problems
+  569  ls
+  570  cd submission_003-robot-5
+  571  ls
+  572  python /goinfre/sserakal/login.py
+  573  ls
+  574  touch json
+  575  ls
+  576  mkdir json 
+  577  rm json
+  578  ls
+  579  mkdir json
+  580  mv encryption.py login.py json
+  581  ls
+  582  cd json/
+  583  ls
+  584  cd
+  585  cd ..
+  586  ls
+  587  cd sserakal/
+  588  ls
+  589  mv user_account.json json
+  590  rm user_account.py 
+  591  ls
+  592  cd json/
+  593  ls
+  594  cat user_account.json 
+  595  ls
+  596  cat encryption.py 
+  597  ls
+  598  /usr/bin/python3 /goinfre/sserakal/json/encryption.py
+  599  /usr/bin/python3 /goinfre/sserakal/json/json_handling.py
+  600  /usr/bin/python3 /goinfre/sserakal/json/user_storage.py
+  601  mv json_handling.py  jsonprac.py user_interface.py  user_storage.py json
+  602  ls
+  603  cd json/
+  604  ls
+  605  python3 -m unittest tests/test_main.py
+  606  wtc-lms add_comment b5f4892e-d9b4-4305-aa80-419f909a0d98 "Her code runs as intended"
+  607  wtc-lms grade_review b5f4892e-d9b4-4305-aa80-419f909a0d98 10
+  608  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-robot-4/world/obstacles.py
+  609  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-robot-4/robot.py
+  610  python3 robot.py turtle
+  611  /usr/bin/python3 /goinfre/sserakal/json/user_storage.py
+  612  cd
+  613  ls
+  614  cd problems
+  615  ls
+  616  cd submission_002-robot-4
+  617  ls
+  618  cd ..
+  619  ls
+  620  cd
+  621  ls
+  622  cd ./json
+  623  ls
+  624  /usr/bin/python3 /goinfre/sserakal/json/encryption.py
+  625  /usr/bin/python3 /goinfre/sserakal/json/user_storage.py
+  626  /usr/bin/python3 /goinfre/sserakal/json/user_interface.py
+  627  git pull
+  628  cd 
+  629  ls
+  630  cd problems
+  631  ls
+  632  git clone https://github.com/VR-Scott/practice_team_08.git
+  633  cd practice_team_08/
+  634  git branch -a
+  635  git checkout -b integration1
+  636  git branch -a
+  637  cp -r json practice_team_08
+  638  ls
+  639  cd 
+  640  ls
+  641  cp -r json practice_team_08
+  642  ls
+  643  cd practice_team_08
+  644  ls
+  645  git add json
+  646  git commit -m "Updated login/register using encryption and json"
+  647  git push
+  648  git push --set-upstream origin vscott
+  649  git push
+  650  git pull
+  651  git push
+  652  ls
+  653  cd json
+  654  ls
+  655  git rm script.py
+  656  git rm data_file.json
+  657  git add
+  658  git add .
+  659  git commit -m "Updated login/register using encryption and json
+  660  Updated login/register using encryption and json
+  661  git commit -m "Updated login/register using encryption and json"
+  662  git push
+  663  /goinfre/sserakal/problems/ukhoba9030_submission_001-bugfixer_grading
+  664  python3 robot.py
+  665  python3 robot.py turtle
+  666  cd /goinfre/sserakal/problems/ntlamola3406_submission_004-problem_grading
+  667  python3 robot.py
+  668  ls
+  669  cd ..
+  670  ls
+  671  cd submission_003-robot-5
+  672  python3 robot.py
+  673  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/world/turtle/world.py
+  674  python3 robot.py
+  675  python3 robot.py turtle
+  676  git clone https://github.com/VR-Scott/practice_team_08.git
+  677  git checkout -b intergration
+  678  ls
+  679  rm -rf practice_team_08
+  680  /usr/bin/python3 /goinfre/sserakal/json/user_interface.py
+  681  code .
+  682  ls
+  683  rm -rf json
+  684  git add .
+  685  git commit -m "updated login with json database"
+  686  git push
+  687  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  688  wtc-lms login
+  689  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  690  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  691  wtc-lms history 291fe834-5e48-4c8d-a8eb-5dfba8e3cd3a
+  692  wtc-lms history 9e760d4f-adc7-4184-8c6c-538dd5c02532
+  693  wtc-lms history aeda1496-2eeb-49ed-9c86-d84593456cc3
+  694  wtc-lms history c4ed8104-22a0-4b2b-96a8-879b4c9e6e69
+  695  wtc-lms history 0b447f96-8fb9-4876-ae91-046267423a3e
+  696  wtc-lms eb04c6dc-ddee-4751-a999-6e28f7861978
+  697  wtc-lms history eb04c6dc-ddee-4751-a999-6e28f7861978
+  698  wtc-lms history ef4e20e2-6ed5-4eea-93b6-78116b0083eb
+  699  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  700  wtc-lms history ec83fd21-6c13-4a78-9396-f57c8ffd3c83
+  701  wtc-lms history decea39d-7a2a-45d9-bd08-1af152c94516
+  702  wtc-lms history e5be25a3-5fd4-4f71-8dc0-67e3b8b211bf
+  703  wtc-lms history 254a6e98-30b6-4a8b-b255-a4e7aa0c4547
+  704  wtc-lms history 8dea9e69-07da-440d-964c-08e868e11561
+  705  wtc-lms history da2f7a67-be13-4e03-995d-1c63dc429bd6
+  706  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  707  wtc-lms history f899e822-161f-4c92-9a42-7c7a2467c021
+  708  wtc-lms history d3c51cf8-c246-478c-a3b2-fac6ac41df67
+  709  python3 robot.py turtle
+  710  ls
+  711  cd problems
+  712  ls
+  713  cd submission_003-robot-5
+  714  ls
+  715  code .
+  716  python3 robot.py turtle
+  717  cd problems
+  718  ls
+  719  cd submission_003-robot-5
+  720  code .
+  721  python3 -m unittest tests/test_main.py
+  722  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  723  python3 -m unittest tests/test_main.py
+  724  wtc-lms grade ead9542e-a32a-43d2-bfcf-c60e7559611f
+  725  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  726  wtc-lms start c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  727  cd ..
+  728  ls
+  729  wtc-lms start c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  730  python3 -m unittest tests/test_main.py
+  731  wtc-lms problems grep | "c96a3dc4-1ee0-4cac-8d78-11a63c8213fd"
+  732  wtc-lms problems | grep "c96a3dc4-1ee0-4cac-8d78-11a63c8213fd"
+  733  wtc-lms save c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  734  wtc-lms grade c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  735  python3 robot.py turtle
+  736  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  737  python3 -m unittest tests/test_main.py
+  738  wtc-lms login
+  739  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  740  wtc-lms start ead9542e-a32a-43d2-bfcf-c60e7559611f
+  741  code .
+  742  cd /goinfre/sserakal/problems/submission_002-mastermind-functions/
+  743  code .
+  744  git status
+  745  wtc-lms history ead9542e-a32a-43d2-bfcf-c60e7559611f
+  746  cat .git/config 
+  747  python3 -m unittest tests/test_main.py -b
+  748  wtc-lms problems
+  749  python3 robot.py turtle
+  750  wtc-lms login
+  751  wtc-lms add_comment a9d9d7c0-a2d3-4393-9af6-98f256ff41c5 "Code runs well"
+  752  wtc-lms grade_review a9d9d7c0-a2d3-4393-9af6-98f256ff41c5 10
+  753  cd /goinfre/sserakal/problems/nddlamin7220_submission_002-toy-robot-3_grading
+  754  cd /goinfre/sserakal/problems/taismail_submission_002-toy-robot-3_grading
+  755  cd /goinfre/sserakal/problems/asardie1691_submission_001-wtc-basics_grading
+  756  cd ..
+  757  l
+  758  ls
+  759  cd submission_003-robot-5
+  760  pythpn3 robot.py turtle
+  761  python3 robot.py turtle
+  762  cd /goinfre/sserakal/problems/submission_003-robot-5
+  763  code .
+  764  wtc-lms reviews
+  765  wtc-lms login
+  766  wtc-lms reviews
+  767  /goinfre/sserakal/problems/fkalombo7868_submission_001-accounting_grading
+  768  cd ..
+  769  ls
+  770  /goinfre/sserakal/problems/fkalombo7868_submission_001-accounting_grading
+  771  wtc-lms reviews
+  772  wtc-lms review_details a640c0c7-a858-4deb-8007-b8397fb85e33
+  773  wtc-lms accept a640c0c7-a858-4deb-8007-b8397fb85e33
+  774  wtc-lms review_details c0cadd7a-ca8b-4daa-a9cc-0520926888d7
+  775  wtc-lms accept c0cadd7a-ca8b-4daa-a9cc-0520926888d7
+  776  wtc-lms review_details bf9f3d3f-f63e-430f-8f9b-6bc463620379
+  777  wtc-lms accept bf9f3d3f-f63e-430f-8f9b-6bc463620379
+  778  wtc-lms review_details 7aabe346-cc74-4c8a-970e-5d9a5c7a4eb3
+  779  wtc-lms accept 7aabe346-cc74-4c8a-970e-5d9a5c7a4eb3
+  780  wtc-lms review_details e3260936-f26c-46f2-b68c-2290aa8c7a9d
+  781  wtc-lms accept e3260936-f26c-46f2-b68c-2290aa8c7a9d
+  782  wtc-lms review_details 945a7bfd-0127-4fcb-b432-d04f94f4045c
+  783  wtc-lms accept 945a7bfd-0127-4fcb-b432-d04f94f4045c
+  784  wtc-lms add_comment c0cadd7a-ca8b-4daa-a9cc-0520926888d7 "Code runs well"
+  785  wtc-lms grade_review c0cadd7a-ca8b-4daa-a9cc-0520926888d7 10
+  786  python3 -m unittest tests/test_main.py
+  787  wtc-lms add_comment 443c33e3-57a3-4863-8ff3-ecfbad948742 "He understands the logic of his code."
+  788  wtc-lms grade_review 443c33e3-57a3-4863-8ff3-ecfbad948742 9
+  789  python3 -m unittest tests/test_main.py
+  790  python3 draw.py
+  791  wtc-lms add_comment 945a7bfd-0127-4fcb-b432-d04f94f4045c "He understands the logic of his code"
+  792  wtc-lms grade_review 945a7bfd-0127-4fcb-b432-d04f94f4045c 10
+  793  python3 -m unittest tests/test_main.py
+  794  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  795  wtc-lms add_comment e3260936-f26c-46f2-b68c-2290aa8c7a9d "Understands the logic of her code"
+  796  wtc-lms grade_review e3260936-f26c-46f2-b68c-2290aa8c7a9d 10
+  797  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  798  cd  /goinfre/sserakal/problems/smciwa6792_submission_001-pyramids_grading
+  799  code .
+  800  python3 -m unittest tests/test_main.py
+  801  wtc-lms add_comment 7ed10cf9-c153-4ec3-be36-e8bbdecbbb44 "He understands the logic of his code however he used function names incorretly"
+  802  wtc-lms grade_review 7ed10cf9-c153-4ec3-be36-e8bbdecbbb44 9
+  803  python3 -m unittest tests/test_main.py
+  804  wtc-lms sync_review
+  805  wtc-lms sync_review a640c0c7-a858-4deb-8007-b8397fb85e33
+  806  cd /goinfre/sserakal/problems/tkwayiba4135_submission_001-bugfixer_grading
+  807  code
+  808  code .
+  809  python3 -m unittest tests/test_main.py
+  810  wtc-lms add_comment 7aabe346-cc74-4c8a-970e-5d9a5c7a4eb3 "Understands the logic of his code"
+  811  wtc-lms  login
+  812  wtc-lms add_comment 7aabe346-cc74-4c8a-970e-5d9a5c7a4eb3 "Understands the logic of his code"
+  813  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  814  cd /goinfre/sserakal/problems/tkwayiba4135_submission_001-bugfixer_grading
+  815  cd /goinfre/sserakal/problems/tpema2915_submission_002-mastermind-functions_grading
+  816  wtc-lms grade_review 7aabe346-cc74-4c8a-970e-5d9a5c7a4eb3 10
+  817  cd /goinfre/sserakal/problems/lakazzie5234_submission_002-mastermind-functions_grading
+  818  code .
+  819  wtc-lms review_d
+  820  cd  /goinfre/sserakal/problems/apillay8094_submission_002-mastermind-functions_grading
+  821  code .
+  822  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  823  wtc-lms login
+  824  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  825  wtc-lms reviews 
+  826  wtc-lms review_details a640c0c7-a858-4deb-8007-b8397fb85e33
+  827  cd /goinfre/sserakal/problems/tkwayiba4135_submission_001-bugfixer_grading
+  828  wtc-lms review_details 7ed10cf9-c153-4ec3-be36-e8bbdecbbb44
+  829  wtc-lms accept 7ed10cf9-c153-4ec3-be36-e8bbdecbbb44
+  830  wtc-lms review_details ce82e815-d5d2-4e80-b385-954fbfa0320b
+  831  wtc-lms accept ce82e815-d5d2-4e80-b385-954fbfa0320b
+  832  wtc-lms review_details 443c33e3-57a3-4863-8ff3-ecfbad948742
+  833  wtc-lms accept 443c33e3-57a3-4863-8ff3-ecfbad948742
+  834  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  835  cd /goinfre/sserakal/problems/ynodliwa_submission_001-words_grading
+  836  code .
+  837  /goinfre/sserakal/problems/thasitho8920_submission_002-mastermind-functions_grading
+  838  code .
+  839  cd /goinfre/sserakal/problems/thasitho8920_submission_002-mastermind-functions_grading
+  840  code .
+  841  wtc-lms -v
+  842  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  843  cd /goinfre/sserakal/problems/nbophela2822_submission_002-mastermind-functions_grading
+  844  code .
+  845  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  846  python3 -m unittest tests/test_main.py
+  847  wtc-lms add_comment bf9f3d3f-f63e-430f-8f9b-6bc463620379 "He understands the logic of his code."
+  848  wtc-lms grade_review bf9f3d3f-f63e-430f-8f9b-6bc463620379 10
+  849  python3 -m unittest tests/test_main.py
+  850  git status
+  851  git reset --hard
+  852  python3 -m unittest tests/test_main.py
+  853  python3
+  854  --------------------------------------------------------------------------------------------------------
+  855  wtc-lms login
+  856  wtc-lms reviews
+  857  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  858  wtc-lms add_comment a640c0c7-a858-4deb-8007-b8397fb85e33 "Test cases run in a perculiar way"
+  859  wtc-lms grade_review a640c0c7-a858-4deb-8007-b8397fb85e33 10
+  860  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  861  wtc-lms review_details c8ab764c-33cc-435e-b514-ca56c79f0bde
+  862  wtc-lms accept c8ab764c-33cc-435e-b514-ca56c79f0bde
+  863  wtc-lms reviews
+  864  wtc-lms review_details a4523725-9e27-49e2-8cea-ba857892ee11
+  865  wtc-lms accept a4523725-9e27-49e2-8cea-ba857892ee11
+  866  wtc-lms review_details 71d2fc1e-38a8-4dc2-affd-057d88dc4b93
+  867  wtc-lms accept 71d2fc1e-38a8-4dc2-affd-057d88dc4b93
+  868  wtc-lms review_details 6d7434bb-46b6-42a7-a67a-08f9cd8d7919
+  869  wtc-lms accept 6d7434bb-46b6-42a7-a67a-08f9cd8d7919
+  870  wtc-lms review_details 3589764d-2ee2-45b8-8b0b-1dfc19490d12
+  871  wtc-lms accept 3589764d-2ee2-45b8-8b0b-1dfc19490d12
+  872  wtc-lms review_details feb005e2-1899-416c-bedf-764c0f2d642e
+  873  wtc-lms accept feb005e2-1899-416c-bedf-764c0f2d642e
+  874  ls
+  875  wtc-lms reviews
+  876  wtc-lms review_details 612c8f3e-8224-428f-9801-7afe5838070e
+  877  wtc-lms accept 612c8f3e-8224-428f-9801-7afe5838070e
+  878  wtc-lms review_details 695236db-8a09-43e3-9347-c36b69f15edb
+  879  wtc-lms accept 695236db-8a09-43e3-9347-c36b69f15ed
+  880  wtc-lms reviews
+  881  wtc-lms review_details a4320b5c-49ea-44d3-a750-e42dd667a95e
+  882  wtc-lms accept a4320b5c-49ea-44d3-a750-e42dd667a95e
+  883  wtc-lms reviews
+  884  python3 robot.py turtle
+  885  wtc-lms add_comment 6d7434bb-46b6-42a7-a67a-08f9cd8d7919 "SHe understands the logic of her code"
+  886  wtc-lms grade_review 6d7434bb-46b6-42a7-a67a-08f9cd8d7919 10
+  887  python3 maze/mazerunner.py
+  888  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  889  wtc-lms login
+  890  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  891  /goinfre/sserakal/problems/zmfeka8582_submission_002-mastermind-functions_grading
+  892  cd /goinfre/sserakal/problems/zmfeka8582_submission_002-mastermind-functions_grading
+  893  code .
+  894  wtc-lms login
+  895  wtc-lms add_comment feb005e2-1899-416c-bedf-764c0f2d642e "He understands the logic of his code however he doesnt have docstrings."
+  896  wtc-lms grade_review feb005e2-1899-416c-bedf-764c0f2d642e 10
+  897  wtc-lms add_comment 71d2fc1e-38a8-4dc2-affd-057d88dc4b93 "Code runs and well and all the guidelines are met"
+  898  wtc-lms grade_review 71d2fc1e-38a8-4dc2-affd-057d88dc4b93 10
+  899  python3 maze/mazerunner.py
+  900  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  901  cd /goinfre/sserakal/problems/tmakae8111_submission_002-mastermind-functions_grading
+  902  code .
+  903  cd /goinfre/sserakal/problems/fweni8398_submission_002-mastermind-functions_grading
+  904  code .
+  905  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  906  /usr/bin/python3.7 /goinfre/sserakal/.vscode/extensions/ms-python.python-2020.11.367453362/pythonFiles/pyvsc-run-isolated.py pip install -U pytest --user
+  907  clear
+  908  tests
+  909  clear
+  910  python3 -m unittest tests/test_main.py
+  911  /usr/bin/python3 /goinfre/sserakal/problems/jmatabog4081_submission_001-words_grading/word_processor.py
+  912  wtc-lms add_comment 612c8f3e-8224-428f-9801-7afe5838070e "Understands the logic of his code."
+  913  wtc-lms grade_review 612c8f3e-8224-428f-9801-7afe5838070e 10
+  914  wtc-lms login
+  915  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  916  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  917  wtc-lms login
+  918  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  919  cd /goinfre/sserakal/problems/jmatabog4081_submission_001-words_grading
+  920  code .
+  921  python3 robot.py turtle
+  922  source /goinfre/sserakal/problems/mnnyembe6862_submission_001-accounting_grading/venv/bin/activate
+  923  python3 -m unittest tests/test_main.py
+  924  wtc-lms add_comment c8ab764c-33cc-435e-b514-ca56c79f0bde "Understands virtual environment's functionality however he doesnt have doctrings as per the guidelines"
+  925  wtc-lms grade_review c8ab764c-33cc-435e-b514-ca56c79f0bde 10
+  926  python3 robot.py
+  927  python3 -m unittest tests/test_main.py
+  928  wtc-lms save c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  929  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  930  wtc-lms grade c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  931  wtc-lms history c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  932  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  933  cd /goinfre/sserakal/problems/mnnyembe6862_submission_001-accounting_grading
+  934  wtc-lms start c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  935  ls
+  936  cd problems
+  937  ls
+  938  cd submission_002-robot-4
+  939  ls
+  940  code .
+  941  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze
+  942  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/maze/the_worlds_most_crazy_maze.py turtle
+  943  python3 maze/the_worlds_most_crazy_maze.py
+  944  python3 robot.py turtle
+  945  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-robot-4/world/obstacles.py
+  946  /usr/bin/python3 /goinfre/sserakal/problems/submission_002-robot-4/world/obstacles.py turtle
+  947  python3 robot.py turtle
+  948  wtc-lms login
+  949  wtc-lms start c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  950  wtc-lms save c96a3dc4-1ee0-4cac-8d78-11a63c8213fd
+  951  python3 robot.py turtle
+  952  python3 robot.py turtle simple maze
+  953  wtc-lms add_comment 3589764d-2ee2-45b8-8b0b-1dfc19490d12 "He understands the logic of his code"
+  954  wtc-lms grade_review 3589764d-2ee2-45b8-8b0b-1dfc19490d12 10
+  955  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  956  cd /goinfre/sserakal/problems/ruvander3291_submission_002-mastermind-functions_grading
+  957  code
+  958  code .
+  959  cd /goinfre/sserakal/problems/ruvander3291_submission_002-mastermind-functions_grading turtle
+  960  /usr/bin/python3 /goinfre/sserakal/problems/mrawoot8226_submission_001-wtc-basics_grading/hello.py
+  961  wtc-lms reviews | grep "Graded" | sort
+  962  wtc-lms logib
+  963  Wtc-lms login
+  964  wtc-lms login
+  965  wtc-lms reviews | grep "Graded" | sort
+  966  wtc-lms reviews | grep -A 1 "Grade" | grep "details" | sh
+  967  wtc-lms reviews | grep "Graded" | wc -l
+  968  python3 -m unittest test_robot.py
+  969  python3 -m unittest tests/test_main.py
+  970  clear
+  971  python3 test_robot.py
+  972  clear
+  973  wtc-lms add_comment ff903616-06ec-4c1d-a03f-d01e139859d8 "Tests ran and passed with the exception of test robot"
+  974  wtc-lms grade_review ff903616-06ec-4c1d-a03f-d01e139859d8 10
+  975  /usr/bin/python3 /goinfre/sserakal/problems/ntmalule1755_submission_002-mastermind-functions_grading/mastermind.py
+  976  wtc-lms add_comment 6b6547dd-9764-4826-a22d-d49e17a9b4e2 "Code runs well"
+  977  wtc-lms grade_review 6b6547dd-9764-4826-a22d-d49e17a9b4e2 10
+  978  wtc-lms add_comment 6b6547dd-9764-4826-a22d-d49e17a9b4e2 "Code runs well"
+  979  python3 -m unittest tests/test_main.py
+  980  wtc-lms reviews | grep "Assigned" -A1 | grep "details" | sh
+  981  cd wtc-lms add_comment 4eed196f-87c4-4343-95b9-1d3820a346d6 "She understands the logic of her code."
+  982  wtc-lms add_comment 4eed196f-87c4-4343-95b9-1d3820a346d6 "She understands the logic of her code."
+  983  wtc-lms grade_review 4eed196f-87c4-4343-95b9-1d3820a346d6 10
+  984  cd /goinfre/sserakal/problems/sfoflonk5666_submission_002-mastermind-functions_grading
+  985  code .
+  986  python3 -m unittest tests/test_main.py
+  987  wtc-lms add_comment a4523725-9e27-49e2-8cea-ba857892ee11 "Test cases pass"
+  988  wtc-lms grade_review a4523725-9e27-49e2-8cea-ba857892ee11 10
+  989  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/robot.py
+  990  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/robot.py turtle
+  991  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/world/turtle/world.py
+  992  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/robot.py
+  993  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/robot.py turtle
+  994  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/world/turtle/world.py
+  995  /usr/bin/python3 /goinfre/sserakal/problems/submission_003-robot-5/robot.py turtle
+  996  wtc-lms login
+  997  history > sserakal.txt
